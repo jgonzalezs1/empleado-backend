@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TalentoHumanoAPI", "TalentoHumanoAPI\TalentoHumanoAPI.csproj", "{835B848E-55EA-4D34-A03C-69021F488483}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TalentoHumanoData", "TalentoHumanoData\TalentoHumanoData.csproj", "{CA2DD47B-97AD-4DBD-9169-9F041FC42E48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{835B848E-55EA-4D34-A03C-69021F488483}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{835B848E-55EA-4D34-A03C-69021F488483}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{835B848E-55EA-4D34-A03C-69021F488483}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{835B848E-55EA-4D34-A03C-69021F488483}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA2DD47B-97AD-4DBD-9169-9F041FC42E48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA2DD47B-97AD-4DBD-9169-9F041FC42E48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA2DD47B-97AD-4DBD-9169-9F041FC42E48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA2DD47B-97AD-4DBD-9169-9F041FC42E48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DF2D215-9526-4D13-9DD7-779269FA4450}
+	EndGlobalSection
+EndGlobal
